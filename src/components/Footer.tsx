@@ -37,7 +37,7 @@ const Footer = () => {
                   <Music className="w-6 h-6 text-white" />
                 </div>
                 <span className="text-2xl font-bold bg-gradient-to-r from-purple-400 to-blue-400 bg-clip-text text-transparent">
-                  SoundWave
+                  REVERBERATE
                 </span>
               </div>
               <p className="text-gray-400 mb-6 leading-relaxed">
@@ -122,7 +122,7 @@ const Footer = () => {
           viewport={{ once: true }}
         >
           <p className="text-gray-400 text-sm mb-4 md:mb-0">
-            © 2024 SoundWave. All rights reserved.
+            © 2025 REVERBERATE. All rights reserved. TECHWIZARD.
           </p>
           <div className="flex space-x-6 text-sm">
             <a href="#" className="text-gray-400 hover:text-purple-400 transition-colors">Privacy Policy</a>
